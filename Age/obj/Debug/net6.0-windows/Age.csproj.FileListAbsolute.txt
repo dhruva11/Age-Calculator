@@ -1,0 +1,17 @@
+C:\Users\dhruv\source\repos\Age\Age\bin\Debug\net6.0-windows\Age.exe
+C:\Users\dhruv\source\repos\Age\Age\bin\Debug\net6.0-windows\Age.deps.json
+C:\Users\dhruv\source\repos\Age\Age\bin\Debug\net6.0-windows\Age.runtimeconfig.json
+C:\Users\dhruv\source\repos\Age\Age\bin\Debug\net6.0-windows\Age.dll
+C:\Users\dhruv\source\repos\Age\Age\bin\Debug\net6.0-windows\Age.pdb
+C:\Users\dhruv\source\repos\Age\Age\obj\Debug\net6.0-windows\Age.csproj.AssemblyReference.cache
+C:\Users\dhruv\source\repos\Age\Age\obj\Debug\net6.0-windows\AgeCalculatorApp.MainForm.resources
+C:\Users\dhruv\source\repos\Age\Age\obj\Debug\net6.0-windows\Age.csproj.GenerateResource.cache
+C:\Users\dhruv\source\repos\Age\Age\obj\Debug\net6.0-windows\Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruv\source\repos\Age\Age\obj\Debug\net6.0-windows\Age.AssemblyInfoInputs.cache
+C:\Users\dhruv\source\repos\Age\Age\obj\Debug\net6.0-windows\Age.AssemblyInfo.cs
+C:\Users\dhruv\source\repos\Age\Age\obj\Debug\net6.0-windows\Age.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\source\repos\Age\Age\obj\Debug\net6.0-windows\Age.dll
+C:\Users\dhruv\source\repos\Age\Age\obj\Debug\net6.0-windows\refint\Age.dll
+C:\Users\dhruv\source\repos\Age\Age\obj\Debug\net6.0-windows\Age.pdb
+C:\Users\dhruv\source\repos\Age\Age\obj\Debug\net6.0-windows\Age.genruntimeconfig.cache
+C:\Users\dhruv\source\repos\Age\Age\obj\Debug\net6.0-windows\ref\Age.dll
